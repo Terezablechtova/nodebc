@@ -1,0 +1,11 @@
+body{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+}
+div{
+    border: 1px solid red;
+}
+span{
+    border: 1px solid orange;
+}

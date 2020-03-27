@@ -1,0 +1,8 @@
+p img {
+    max-width: 20px;
+    vertical-align: bottom;
+}
+button img {
+    max-width: 20px ;
+    vertical-align: top;
+}

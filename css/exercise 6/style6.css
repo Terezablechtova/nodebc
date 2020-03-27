@@ -1,0 +1,44 @@
+body {
+    font-family: Arial;
+    font-size: 16px;
+    color: black;
+}
+h1, h2{
+    font-size: 200%;
+    color: #ddd;
+    text-shadow: 1px 2px 3px #666;
+    text-transform: uppercase;
+}
+h2{
+    font-size: 150%;
+}
+p{
+    line-height: 140%;
+    text-indent: 8px;
+}
+.main{
+    text-align: justify;
+}
+.bold{
+    font-weight: bold;
+    color: coral;
+}
+#quote{
+    letter-spacing: 2px;
+    font-style: italic;
+    color: darkcyan;
+}
+.last{
+text-align: right;
+color: red;
+}
+.wrong{
+    text-decoration: line-through black;
+    font-weight: 700 ;
+    line-height: 120%;
+}
+.google{
+    font-family: 'Merriweather', serif;
+    font-size: 160%;
+    color: purple;
+}
